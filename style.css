@@ -1,0 +1,112 @@
+.img1{
+    height: 500px;
+}
+@media only screen and (max-width: 600px) {
+    .img1{
+        height: 200px;
+    }
+    .mobilecard{
+        width: 5rem;
+    }
+}
+.backgroung{
+    background-image: url("imgs/client.jpg");
+    /* background-repeat: no-repeat; */
+}
+.img3{
+    width: 150px;
+    margin-left: 50px;
+}
+
+.brsty{
+    margin-top: 50px;
+    margin-bottom  : 50px;
+}
+
+.bgdefault{
+    background-color: #ccc;
+}
+
+.img4{
+    width: 100%;
+    background-color: #A952A7;
+}
+
+.img5{
+    width: 150px;
+    margin-left: 50px;
+    background-color: #F36248;
+}
+
+.img6{
+    width: 150px;
+    margin-left: 50px;
+    background-color: #8892BF;
+}
+
+.img7{
+    width: 180px;
+    margin-left: 50px;
+    background-color: #54489E;
+}
+
+
+.img8{
+    width: 149px;
+    margin-left: 50px;
+    height: 150px;
+    background-color: #51BFA2;
+}
+
+.img9{
+    width: 150px;
+    margin-left: 50px;
+    height: 150px;
+    background-color: #F36248;
+}
+
+.img10{
+    width: 150px;
+    margin-left: 50px;
+    background-color: #E6E06C;
+}
+
+.img11{
+    width: 150px;
+    margin-left: 50px;
+    height: 150px;
+    background-color: #B2B3B5;
+}
+
+.backgroundimg{
+    background-image: url("imgs/apply-now.jpg");
+    height: 500px;
+    width: 100%;
+}
+.brg{
+    background-color: black;
+    background-size: cover;
+    opacity: 0.5;
+}
+
+.footer{
+    margin-top: 40px;
+    margin-bottom: 50px;
+}
+
+.foot{
+    background-color: #223255;
+    color: white;
+}
+
+.lkj{
+    width: 100px;
+    border-radius: 15px;
+    color: red;
+}
+
+.back{
+    background-color: black;
+    color: white;
+    margin-bottom: 0%;
+}
